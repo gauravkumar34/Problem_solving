@@ -26,3 +26,5 @@ int main(){
     }
     return 0;
 }
+
+<--- input = 1A || output = 27 --->
